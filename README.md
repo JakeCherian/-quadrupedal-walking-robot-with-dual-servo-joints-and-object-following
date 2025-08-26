@@ -80,7 +80,7 @@ The quadrupedal robot operates through the coordinated action of servo-driven jo
 
 ### Circuit Diagram
 <div class="image-container">
-  <img src="Quadruped_Circuit.pmg" alt="Circuit Diagram" width="600" height="350">
+  <img src="Quadruped_Circuit.png" alt="Circuit Diagram" width="600" height="350">
 </div>
 <br>
 
