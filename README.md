@@ -128,5 +128,3 @@ This project has significant potential in:
 * Jacob Cherian 
 * A Abishek  
 * Abhinav Balakrishnan 
-
-Project Link: [https://github.com/JakeCherian/QuadTrackBot](https://github.com/JakeCherian/QuadTrackBot)  
