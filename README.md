@@ -70,17 +70,17 @@ The quadrupedal robot operates through the coordinated action of servo-driven jo
 ## Visual Reference of the Robot
 ### Image 1
 <div class="image-container">
-  <img src="Quadruped_1.jpg" alt="Quadruped Robot Front View" width="300" height="300">
+  <img src="Quadruped_1.png" alt="Quadruped Robot Front View" width="300" height="300">
 </div>
 
 ### Image 2
 <div class="image-container">
-  <img src="Quadruped_2.jpg" alt="Quadruped Robot Side View" width="300" height="300">
+  <img src="Quadruped_2.png" alt="Quadruped Robot Side View" width="300" height="300">
 </div>
 
 ### Circuit Diagram
 <div class="image-container">
-  <img src="Quadruped_Circuit.jpg" alt="Circuit Diagram" width="600" height="350">
+  <img src="Quadruped_Circuit.pmg" alt="Circuit Diagram" width="600" height="350">
 </div>
 <br>
 
