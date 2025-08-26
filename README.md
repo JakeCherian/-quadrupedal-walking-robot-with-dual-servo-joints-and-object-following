@@ -125,8 +125,8 @@ This project has significant potential in:
 
 ## Team Members
 
-* Jacob Cherian - jakecherian10@gmail.com  
-* A Abishek - (email)  
-* Abhinav Balakrishnan - (email)  
+* Jacob Cherian 
+* A Abishek  
+* Abhinav Balakrishnan 
 
 Project Link: [https://github.com/JakeCherian/QuadTrackBot](https://github.com/JakeCherian/QuadTrackBot)  
